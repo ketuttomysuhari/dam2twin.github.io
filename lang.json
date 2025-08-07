@@ -1,0 +1,33 @@
+{
+    "id": {
+      "nav_home": "Beranda",
+      "nav_map": "Peta 3D",
+      "nav_contrib": "Kontribusi",
+      "nav_doc": "Dokumentasi",
+      "nav_pricing": "Harga",
+      "hero_title": "Selamat Datang di Eksplorasi Digital Bendungan Pataruman",
+      "hero_desc": "Bendungan Pataruman adalah infrastruktur hidrolik penting di Jawa Barat yang dibangun untuk mengatur irigasi, mengelola sumber daya air, dan mengurangi banjir. Aplikasi ini memungkinkan Anda mengeksplorasi Pataruman secara interaktif dalam 3D.",
+      "info_title": "Tentang Bendungan Pataruman",
+      "info_para1": "Bendungan Pataruman terletak di Kabupaten Ciamis, berfungsi sebagai struktur utama distribusi irigasi dari Sungai Citanduy. Dikembangkan untuk meningkatkan produktivitas pertanian dan memastikan ketersediaan air sepanjang tahun.",
+      "info_para2": "Representasi digital twin dari Bendungan Pataruman menampilkan visualisasi real-time elevasi, model konstruksi, dan analisis spasial.",
+      "map_title": "Jelajahi Peta 3D",
+      "map_desc": "Masuki dunia visualisasi 3D yang interaktif menggunakan teknologi GIS modern. Amati struktur, ukur jarak, dan eksplorasi fitur medan secara real-time.",
+      "map_button": "🔍 Lihat Peta 3D Sekarang"
+    },
+    "en": {
+      "nav_home": "Home",
+      "nav_map": "3D Map",
+      "nav_contrib": "Contributions",
+      "nav_doc": "Documentation",
+      "nav_pricing": "Pricing",
+      "hero_title": "Welcome to the Digital Exploration of Bendungan Pataruman",
+      "hero_desc": "Bendungan Pataruman is an important hydraulic infrastructure in West Java, Indonesia, built to regulate irrigation, manage water resources, and mitigate floods in the surrounding regions. This web application allows users to interactively explore Pataruman in 3D, visualize terrain data, and understand its structure using modern geospatial technology.",
+      "info_title": "About Bendungan Pataruman",
+      "info_para1": "Bendungan Pataruman is located in Ciamis Regency, West Java, serving as a critical structure for irrigation and water distribution from the Citanduy River. It was developed to optimize agricultural productivity and ensure consistent water supply throughout the year.",
+      "info_para2": "The digital twin representation of Bendungan Pataruman offers real-time visualization of terrain elevation, construction modeling, and spatial analytics, supporting better public understanding and expert analysis.",
+      "map_title": "Explore the 3D Map",
+      "map_desc": "Dive into a detailed and interactive 3D visualization of Bendungan Pataruman using modern GIS tools. Observe structures, measure distances, and examine terrain features in real-time.",
+      "map_button": "🔍 View 3D Map Now"
+    }
+  }
+  
